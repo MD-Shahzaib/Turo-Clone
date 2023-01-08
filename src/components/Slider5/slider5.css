@@ -1,0 +1,40 @@
+.card-size2 {
+    font-family: RlBasisGrotesque, Avenir, Helvetica Neue, Helvetica, sans-serif;
+    display: flex !important;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 290px !important;
+    height: 238px !important;
+    box-shadow: 0px 1px 5px 1px #c5cacb;
+    border-radius: 5%;
+    background: rgb(255, 255, 255);
+}
+
+.b-radius {
+    border-radius: 50%;
+    width: 82px;
+}
+
+.f-size {
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.f-size2 {
+    font-size: 11px;
+}
+
+.f-size3 {
+    font-size: 15px;
+}
+
+.mx {
+    margin-right: 3px;
+}
+
+.slick-arrow {
+    background-color: black;
+    border-radius: 50%;
+    width: 25px;
+    height: 25px;
+}

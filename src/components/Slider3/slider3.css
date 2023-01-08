@@ -1,0 +1,29 @@
+.card-img3 {
+    width: 120px !important;
+    border-radius: 0.8vw 0.8vw 0vw 0vw;
+    padding-top: 1vw;
+}
+
+.c-body3 {
+    width: 140px !important;
+    box-shadow: 0px 2px 5px 0px #cec4c4;
+    margin: 1vw 0;
+    border-radius: 0.8vw;
+}
+
+.card-body {
+    padding: 1vw;
+}
+
+.card-title {
+    font-weight: 700;
+    font-size: 16px;
+}
+
+.slider-heading {
+    font-family: RlBasisGrotesque, Avenir, Helvetica Neue, Helvetica, sans-serif;
+    font-size: 21px;
+    font-weight: 700;
+    margin-bottom: 1vh;
+    padding: 1vh 0;
+}

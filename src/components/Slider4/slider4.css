@@ -1,0 +1,10 @@
+.card-size {
+    display: flex !important;
+    flex-direction: column;
+    width: 290px !important;
+}
+
+.cs-para {
+    font-size: 15px;
+    font-weight: 600;
+}

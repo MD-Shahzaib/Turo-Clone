@@ -1,0 +1,38 @@
+.slide-body {
+    display: flex;
+    justify-content: center;
+}
+
+.text-body {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: flex-start;
+    flex-direction: column;
+}
+
+.sl1-head {
+    font-family: RlBasisGrotesque, Avenir, Helvetica Neue, Helvetica, sans-serif;
+    font-size: 27px;
+    font-weight: 600;
+    max-width: 35vw;
+}
+
+.sl1-h-purple {
+    color: #593CFB;
+}
+
+.sl1-para {
+    font-family: RlBasisGrotesque, Avenir, Helvetica Neue, Helvetica, sans-serif;
+    font-size: 16px;
+    max-width: 35vw;
+}
+
+.sl1-btn {
+    text-align: center;
+    padding: 10px 15px;
+    border: none;
+    background: #593CFB;
+    color: aliceblue;
+    font-size: 20px;
+    font-weight: 500;
+}

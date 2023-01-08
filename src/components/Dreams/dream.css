@@ -1,0 +1,65 @@
+.h-1 {
+    font-family: RlFreight, HoeflerText-Black, Times New Roman, serif;
+    font-weight: 600;
+    font-size: 50px;
+}
+
+.h-btn {
+    padding: 10px 18px;
+    background-color: #593CFB;
+    border: none;
+    color: #FFFFFF;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.h-btn:hover {
+    background-color: #2f16bd;
+}
+
+.main {
+    width: 1000px;
+}
+
+.bg-image {
+    background: url(../../images/bg-img-4.jpg);
+    background-repeat: no-repeat;
+    background-size: 850px 500px;
+    background-position: right;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.black-box {
+    width: 310px;
+    color: aliceblue;
+    background-color: rgb(15, 15, 15);
+}
+
+.t-1 {
+    font-family: RlBasisGrotesque, Avenir, Helvetica Neue, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+}
+
+.t-2 {
+    font-family: RlBasisGrotesque, Avenir, Helvetica Neue, Helvetica, sans-serif;
+    font-size: 28px;
+    font-weight: 700;
+    letter-spacing: -0.2px;
+    line-height: 32px;
+}
+
+.t-3 {
+    font-family: RlBasisGrotesque, Avenir, Helvetica Neue, Helvetica, sans-serif;
+    font-size: 15px;
+    font-weight: 600;
+    color: aliceblue;
+}
+
+.t-3:hover {
+    color: aliceblue;
+}

@@ -1,0 +1,13 @@
+.bg {
+    background: #ebebeb;
+}
+
+.nav-tab-link {
+    text-decoration: underline;
+    font-weight: 500;
+    color: #383535;
+}
+
+.nav-tab-link:hover {
+    color: #857a7a;
+}

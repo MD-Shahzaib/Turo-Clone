@@ -1,0 +1,34 @@
+.catogries,
+.main-content {
+    flex-wrap: wrap;
+}
+
+.link-heading {
+    font-size: 1.8vw;
+    font-weight: 500;
+    color: rgb(38, 38, 46);
+}
+
+.link-list {
+    font-size: 1.3vw;
+    font-weight: 500;
+    color: rgb(82, 82, 83);
+    text-decoration: none;
+}
+
+.link-list:hover {
+    color: rgb(131, 131, 134);
+    text-decoration: underline;
+}
+
+.sl-s {
+    width: 3vw;
+}
+
+.sb-s {
+    width: 12vw;
+}
+
+.flag-size {
+    width: 3vw;
+}

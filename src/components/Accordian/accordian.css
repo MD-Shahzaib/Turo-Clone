@@ -1,0 +1,14 @@
+.title2 {
+    font-family: RlFreight, HoeflerText-Black, Times New Roman, serif;
+    font-weight: 600;
+    font-size: 50px;
+    /* font-size: 5vw; */
+}
+
+.acc-size {
+    width: 420px;
+}
+
+.f-wrap {
+    flex-wrap: wrap;
+}

@@ -1,0 +1,54 @@
+.content {
+    background: url(../../images/booking.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 500px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.space-b {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.p-b {
+    padding-bottom: 120px;
+}
+
+.p-t {
+    padding-top: 200px;
+}
+
+.place1 {
+    width: 24vw;
+}
+
+.place2 {
+    width: 28vw;
+}
+
+.plc-link {
+    color: #593CFB;
+    font-family: RlBasisGrotesque, Avenir, Helvetica Neue, Helvetica, sans-serif;
+    font-size: 28px;
+    font-weight: 600;
+    letter-spacing: -0.2px;
+    line-height: 32px;
+    text-decoration: none;
+}
+
+.plc-link:hover {
+    color: #3b22ca;
+    text-decoration: underline;
+}
+
+.plc-para {
+    font-family: RlBasisGrotesque, Avenir, Helvetica Neue, Helvetica, sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    letter-spacing: -0.1px;
+    line-height: 25px;
+    padding: 1vw 2vw;
+}
